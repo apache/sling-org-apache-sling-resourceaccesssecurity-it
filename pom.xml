@@ -89,9 +89,9 @@
     </properties>
     
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/testing/samples/integration-tests</connection>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-resourceaccesssecurity-it.git</conncetion>
         <developerConnection> scm:svn:https://svn.apache.org/repos/asf/sling/trunk/testing/samples/integration-tests</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/testing/samples/integration-tests</url>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-resourceaccesssecurity-it.git.git</url>
     </scm>
 
     <build>
